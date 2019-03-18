@@ -1,0 +1,8 @@
+{
+  "name": "paySmart",
+  "app_id": "c7645992",
+  "type": "angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
